@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Servo</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_disconnect">Disconnect</string>
+    <string name="title_activity_servo_control">Servo Control</string>
+</resources>

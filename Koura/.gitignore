@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+=======
 # Object files
 *.o
 *.ko
@@ -31,3 +42,4 @@
 # Debug files
 *.dSYM/
 *.su
+>>>>>>> 529157cf7be4268c271a4fbff573b1804d3b43f7
